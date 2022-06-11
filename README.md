@@ -1,1 +1,2 @@
-Demo front application made using Angular/Springboot
+# com-microfocus-demo-web
+# microfocus-demo-web
