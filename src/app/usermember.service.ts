@@ -9,7 +9,7 @@ import { environment } from "src/environments/environment";
 })
 
 export class UserMemberService {
-    private apiServiceUrl = "http://localhost:8080";
+    private apiServiceUrl = "http://100.24.3.91:8080"; // TODO: envvar
 
     constructor(private http: HttpClient) { }
 
