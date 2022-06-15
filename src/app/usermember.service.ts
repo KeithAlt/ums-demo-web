@@ -9,7 +9,7 @@ import { environment } from "src/environments/environment";
 })
 
 export class UserMemberService {
-    private apiServiceUrl = "http://34.225.243.78:8080"; // TODO: envvar
+    private apiServiceUrl = "https://ums.api.demo.keitho.io";
 
     constructor(private http: HttpClient) { }
 
